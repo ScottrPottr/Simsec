@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simsec</string>
+    <string name="title_accounts">Accounts</string>
+    <string name="title_send">Send</string>
+    <string name="title_receive">Receive</string>
+    <string name="title_settings">Settings</string>
+</resources>
